@@ -8,7 +8,7 @@ The Expense Tracking System is designed to streamline expense logging and analys
 
 ## Features
 - **Expense Logging**: Easily log expenses through a designated interface.
-- **Data Visualization**: Visualize expense data using tools like Power BI, Excel, or Google Sheets.
+- **Data Visualization**: Visualize expense data using LOOKER Studio.
 - **Trend Analysis**: Analyze spending trends over time to identify patterns and outliers.
 - **Driver Identification**: Identify key drivers of expenses to prioritize cost-saving opportunities.
 - **Actionable Insights**: Generate actionable insights for improved financial planning and decision-making.
